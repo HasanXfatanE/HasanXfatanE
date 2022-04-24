@@ -9,7 +9,7 @@ i have write the code like 2 years and make designs for 6 years sense 2015
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [hasan1420fatane@gmail.com](mailto:hasan1420fatane@gmail.com)
 * 🧠  I'm learning A web Developer
-* 🤝  I'm open to collaborating on Fatoni
+* 🤝  I'm open to collaborating 
 * ⚡  i like learn anything and new things
 
 <a href="https://www.twitter.com/hasan1420fatane" target="_blank" rel="noreferrer"><img
