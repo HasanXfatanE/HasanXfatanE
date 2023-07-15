@@ -13,7 +13,6 @@ i have write the code like 2 years and make designs for 6 years sense 2015
 * ⚡  i like learn anything and new things
 
 <a href="https://www.twitter.com/hasan1420fatane" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hasan1420fatane?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/HasanXfatanE" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HasanXfatanE?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ## Skills
