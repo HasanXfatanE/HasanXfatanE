@@ -1,16 +1,16 @@
 Hi 👋 My name is Hasan
 ======================
 
-Web Developer and Designer
+Full-Stack Developer and Designer
 --------------------------
 
-i have write the code like 2 years and make designs for 6 years sense 2015
+I have written the code for 2 years and made designs for 6 years since 2015
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [hasanxfatane@gmail.com](mailto:hasanxfatane@gmail.com)
-* 🧠  I'm learning A web Developer
+* ✉️  You can contact me at [hasanxfatane@gmail.com] (mailto:hasanxfatane@gmail.com)
+* 🧠  I'm learning to be A full-stack developer
 * 🤝  I'm open to collaborating 
-* ⚡  i like learn anything and new things
+* ⚡  I like to learn about anything and new things
 
 <a href="https://www.twitter.com/hasan1420fatane" target="_blank" rel="noreferrer"><img
 /></a><a href="https://www.github.com/HasanXfatanE" target="_blank" rel="noreferrer"><img
@@ -67,7 +67,7 @@ src="https://img.shields.io/github/followers/HasanXfatanE?logo=github&style=for-
  <a href="https://HasanMasman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
   <a href="https://www.dev.to/hasanmasman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
    <a href="https://www.polywork.com/hasanmasman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-#### Game Softwar
+#### Game Software
 <a href="https://www.unrealengine.com/en-US/?lang=en-US" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/100/000000/unreal-engine.png" width="46" height="46" /></a>
 
 
